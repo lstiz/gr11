@@ -1,0 +1,1516 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2781496,
+                    42.2889977,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bolsa Nadador / Swimmers Bag",
+                "styleUrl": "#icon-1684-3949AB-nodesc",
+                "styleHash": "5058e832",
+                "styleMapHash": {
+                    "normal": "#icon-1684-3949AB-nodesc-normal",
+                    "highlight": "#icon-1684-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2783508,
+                    42.2890394,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Village - Expo",
+                "styleUrl": "#icon-1685-3949AB-nodesc",
+                "styleHash": "42ed1b74",
+                "styleMapHash": {
+                    "normal": "#icon-1685-3949AB-nodesc-normal",
+                    "highlight": "#icon-1685-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2783267,
+                    42.2889615,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "INFO - INCIDENCIAS/INCIDENTS",
+                "styleUrl": "#icon-1608-3949AB-nodesc",
+                "styleHash": "-60d603c0",
+                "styleMapHash": {
+                    "normal": "#icon-1608-3949AB-nodesc-normal",
+                    "highlight": "#icon-1608-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2786485,
+                    42.2890865,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Briefing",
+                "styleUrl": "#icon-1594-3949AB-nodesc",
+                "styleHash": "19985f13",
+                "styleMapHash": {
+                    "normal": "#icon-1594-3949AB-nodesc-normal",
+                    "highlight": "#icon-1594-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2776052,
+                    42.2891103,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Guardarropía/Bag Drop 4,5k + 2,5k",
+                "styleUrl": "#icon-1684-3949AB-nodesc",
+                "styleHash": "5058e832",
+                "styleMapHash": {
+                    "normal": "#icon-1684-3949AB-nodesc-normal",
+                    "highlight": "#icon-1684-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2777527,
+                    42.2888821,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Guardarropía/Bag Drop 6,5k",
+                "styleUrl": "#icon-1684-3949AB-nodesc",
+                "styleHash": "5058e832",
+                "styleMapHash": {
+                    "normal": "#icon-1684-3949AB-nodesc-normal",
+                    "highlight": "#icon-1684-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2788121,
+                    42.2888117,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "FINISH LINE",
+                "styleUrl": "#icon-1661-3949AB-nodesc",
+                "styleHash": "fb6adb5",
+                "styleMapHash": {
+                    "normal": "#icon-1661-3949AB-nodesc-normal",
+                    "highlight": "#icon-1661-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.2785681,
+                            42.2888791,
+                            0
+                        ],
+                        [
+                            3.2786875,
+                            42.2886857,
+                            0
+                        ],
+                        [
+                            3.2787598,
+                            42.2887046,
+                            0
+                        ],
+                        [
+                            3.2788202,
+                            42.2887214,
+                            0
+                        ],
+                        [
+                            3.2788725,
+                            42.2887413,
+                            0
+                        ],
+                        [
+                            3.2789556,
+                            42.2887799,
+                            0
+                        ],
+                        [
+                            3.2789959,
+                            42.2888057,
+                            0
+                        ],
+                        [
+                            3.278902,
+                            42.2889476,
+                            0
+                        ],
+                        [
+                            3.2788054,
+                            42.2889347,
+                            0
+                        ],
+                        [
+                            3.2787317,
+                            42.2889208,
+                            0
+                        ],
+                        [
+                            3.2785681,
+                            42.2888791,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "FINISH LINE",
+                "styleUrl": "#poly-3949AB-1200-77-nodesc",
+                "styleHash": "232f1c48",
+                "styleMapHash": {
+                    "normal": "#poly-3949AB-1200-77-nodesc-normal",
+                    "highlight": "#poly-3949AB-1200-77-nodesc-highlight"
+                },
+                "stroke": "#3949ab",
+                "stroke-opacity": 1,
+                "stroke-width": 1.2,
+                "fill": "#3949ab",
+                "fill-opacity": 0.30196078431372547
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2786619,
+                    42.2890567,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Entrega premios/Awards Ceremony",
+                "styleUrl": "#icon-1798-3949AB-nodesc",
+                "styleHash": "-79659e5",
+                "styleMapHash": {
+                    "normal": "#icon-1798-3949AB-nodesc-normal",
+                    "highlight": "#icon-1798-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2738793,
+                    42.2891088,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parking - Pago/Pay",
+                "styleUrl": "#icon-1644-3949AB-nodesc",
+                "styleHash": "22d7febc",
+                "styleMapHash": {
+                    "normal": "#icon-1644-3949AB-nodesc-normal",
+                    "highlight": "#icon-1644-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2839086,
+                    42.2913318,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parking - FREE",
+                "styleUrl": "#icon-1644-3949AB-nodesc",
+                "styleHash": "22d7febc",
+                "styleMapHash": {
+                    "normal": "#icon-1644-3949AB-nodesc-normal",
+                    "highlight": "#icon-1644-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2887171,
+                    42.2844922,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parking - FREE",
+                "styleUrl": "#icon-1644-3949AB-nodesc",
+                "styleHash": "22d7febc",
+                "styleMapHash": {
+                    "normal": "#icon-1644-3949AB-nodesc-normal",
+                    "highlight": "#icon-1644-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.2883094,
+                            42.2846628,
+                            0
+                        ],
+                        [
+                            3.2886206,
+                            42.2844167,
+                            0
+                        ],
+                        [
+                            3.2887279,
+                            42.2844029,
+                            0
+                        ],
+                        [
+                            3.2889129,
+                            42.2843314,
+                            0
+                        ],
+                        [
+                            3.289149,
+                            42.2841905,
+                            0
+                        ],
+                        [
+                            3.2894145,
+                            42.2840199,
+                            0
+                        ],
+                        [
+                            3.2895808,
+                            42.2840417,
+                            0
+                        ],
+                        [
+                            3.2894413,
+                            42.2841885,
+                            0
+                        ],
+                        [
+                            3.2892321,
+                            42.2843155,
+                            0
+                        ],
+                        [
+                            3.2889022,
+                            42.2844922,
+                            0
+                        ],
+                        [
+                            3.2885187,
+                            42.2846727,
+                            0
+                        ],
+                        [
+                            3.2883094,
+                            42.2846628,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Parking del Ros",
+                "styleUrl": "#poly-3949AB-1200-77-nodesc",
+                "styleHash": "232f1c48",
+                "styleMapHash": {
+                    "normal": "#poly-3949AB-1200-77-nodesc-normal",
+                    "highlight": "#poly-3949AB-1200-77-nodesc-highlight"
+                },
+                "stroke": "#3949ab",
+                "stroke-opacity": 1,
+                "stroke-width": 1.2,
+                "fill": "#3949ab",
+                "fill-opacity": 0.30196078431372547
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.2848078,
+                            42.2911634,
+                            0
+                        ],
+                        [
+                            3.2845074,
+                            42.2912745,
+                            0
+                        ],
+                        [
+                            3.2842338,
+                            42.2914333,
+                            0
+                        ],
+                        [
+                            3.2839924,
+                            42.2916396,
+                            0
+                        ],
+                        [
+                            3.2837456,
+                            42.2918698,
+                            0
+                        ],
+                        [
+                            3.2831985,
+                            42.2916912,
+                            0
+                        ],
+                        [
+                            3.2831877,
+                            42.2915999,
+                            0
+                        ],
+                        [
+                            3.2834077,
+                            42.291469,
+                            0
+                        ],
+                        [
+                            3.2835203,
+                            42.2913896,
+                            0
+                        ],
+                        [
+                            3.2836652,
+                            42.291219,
+                            0
+                        ],
+                        [
+                            3.2835311,
+                            42.2911991,
+                            0
+                        ],
+                        [
+                            3.2833648,
+                            42.2911079,
+                            0
+                        ],
+                        [
+                            3.2834452,
+                            42.2910682,
+                            0
+                        ],
+                        [
+                            3.2838636,
+                            42.2908738,
+                            0
+                        ],
+                        [
+                            3.2840568,
+                            42.2908499,
+                            0
+                        ],
+                        [
+                            3.2844859,
+                            42.2909928,
+                            0
+                        ],
+                        [
+                            3.2848078,
+                            42.2911634,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Parking - FREE",
+                "styleUrl": "#poly-3949AB-1200-77-nodesc",
+                "styleHash": "232f1c48",
+                "styleMapHash": {
+                    "normal": "#poly-3949AB-1200-77-nodesc-normal",
+                    "highlight": "#poly-3949AB-1200-77-nodesc-highlight"
+                },
+                "stroke": "#3949ab",
+                "stroke-opacity": 1,
+                "stroke-width": 1.2,
+                "fill": "#3949ab",
+                "fill-opacity": 0.30196078431372547
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.2732426,
+                            42.2841135,
+                            0
+                        ],
+                        [
+                            3.273256,
+                            42.28405,
+                            0
+                        ],
+                        [
+                            3.2734786,
+                            42.2840837,
+                            0
+                        ],
+                        [
+                            3.2737468,
+                            42.2841095,
+                            0
+                        ],
+                        [
+                            3.2744067,
+                            42.2840619,
+                            0
+                        ],
+                        [
+                            3.2744093,
+                            42.284173,
+                            0
+                        ],
+                        [
+                            3.27394,
+                            42.2842008,
+                            0
+                        ],
+                        [
+                            3.273669,
+                            42.2842087,
+                            0
+                        ],
+                        [
+                            3.2734867,
+                            42.2842028,
+                            0
+                        ],
+                        [
+                            3.2732426,
+                            42.2841135,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Parking - FREE",
+                "styleUrl": "#poly-3949AB-1200-77-nodesc",
+                "styleHash": "232f1c48",
+                "styleMapHash": {
+                    "normal": "#poly-3949AB-1200-77-nodesc-normal",
+                    "highlight": "#poly-3949AB-1200-77-nodesc-highlight"
+                },
+                "stroke": "#3949ab",
+                "stroke-opacity": 1,
+                "stroke-width": 1.2,
+                "fill": "#3949ab",
+                "fill-opacity": 0.30196078431372547
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2738353,
+                    42.2841631,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parking - FREE",
+                "styleUrl": "#icon-1644-3949AB-nodesc",
+                "styleHash": "22d7febc",
+                "styleMapHash": {
+                    "normal": "#icon-1644-3949AB-nodesc-normal",
+                    "highlight": "#icon-1644-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.2756562,
+                            42.2813559,
+                            0
+                        ],
+                        [
+                            3.2758118,
+                            42.2811753,
+                            0
+                        ],
+                        [
+                            3.276021,
+                            42.2813361,
+                            0
+                        ],
+                        [
+                            3.2759365,
+                            42.2815325,
+                            0
+                        ],
+                        [
+                            3.2757957,
+                            42.2815524,
+                            0
+                        ],
+                        [
+                            3.2756147,
+                            42.2816397,
+                            0
+                        ],
+                        [
+                            3.2756093,
+                            42.2815712,
+                            0
+                        ],
+                        [
+                            3.2756013,
+                            42.2814789,
+                            0
+                        ],
+                        [
+                            3.2756147,
+                            42.2814463,
+                            0
+                        ],
+                        [
+                            3.2757394,
+                            42.2814671,
+                            0
+                        ],
+                        [
+                            3.2757729,
+                            42.2813897,
+                            0
+                        ],
+                        [
+                            3.2756562,
+                            42.2813559,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Parking - FREE",
+                "styleUrl": "#poly-3949AB-1200-77-nodesc",
+                "styleHash": "232f1c48",
+                "styleMapHash": {
+                    "normal": "#poly-3949AB-1200-77-nodesc-normal",
+                    "highlight": "#poly-3949AB-1200-77-nodesc-highlight"
+                },
+                "stroke": "#3949ab",
+                "stroke-opacity": 1,
+                "stroke-width": 1.2,
+                "fill": "#3949ab",
+                "fill-opacity": 0.30196078431372547
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2758239,
+                    42.2814294,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parking - FREE",
+                "styleUrl": "#icon-1644-3949AB-nodesc",
+                "styleHash": "22d7febc",
+                "styleMapHash": {
+                    "normal": "#icon-1644-3949AB-nodesc-normal",
+                    "highlight": "#icon-1644-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2787012,
+                    42.2888407,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Duchas/Showers",
+                "styleUrl": "#icon-1865-3949AB",
+                "styleHash": "392efa17",
+                "styleMapHash": {
+                    "normal": "#icon-1865-3949AB-normal",
+                    "highlight": "#icon-1865-3949AB-highlight"
+                },
+                "description": "Playa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.3130899,
+                        42.3160189,
+                        0
+                    ],
+                    [
+                        3.3131864,
+                        42.3155666,
+                        0
+                    ],
+                    [
+                        3.3132616,
+                        42.3132739,
+                        0
+                    ],
+                    [
+                        3.3124462,
+                        42.3123853,
+                        0
+                    ],
+                    [
+                        3.3108583,
+                        42.3115284,
+                        0
+                    ],
+                    [
+                        3.3080366,
+                        42.3101161,
+                        0
+                    ],
+                    [
+                        3.3036485,
+                        42.3067123,
+                        0
+                    ],
+                    [
+                        3.3004567,
+                        42.3056809,
+                        0
+                    ],
+                    [
+                        3.3006337,
+                        42.3042844,
+                        0
+                    ],
+                    [
+                        3.3005909,
+                        42.3037209,
+                        0
+                    ],
+                    [
+                        3.297297,
+                        42.2940714,
+                        0
+                    ],
+                    [
+                        3.2977691,
+                        42.2904603,
+                        0
+                    ],
+                    [
+                        3.2985201,
+                        42.2879206,
+                        0
+                    ],
+                    [
+                        3.299357,
+                        42.2858173,
+                        0
+                    ],
+                    [
+                        3.2997861,
+                        42.2844838,
+                        0
+                    ],
+                    [
+                        3.2977798,
+                        42.2831662,
+                        0
+                    ],
+                    [
+                        3.2962027,
+                        42.282047,
+                        0
+                    ],
+                    [
+                        3.2939067,
+                        42.2824518,
+                        0
+                    ],
+                    [
+                        3.2919755,
+                        42.2826741,
+                        0
+                    ],
+                    [
+                        3.2905164,
+                        42.2818486,
+                        0
+                    ],
+                    [
+                        3.2871261,
+                        42.2817375,
+                        0
+                    ],
+                    [
+                        3.2832637,
+                        42.2841981,
+                        0
+                    ],
+                    [
+                        3.2816329,
+                        42.2851505,
+                        0
+                    ],
+                    [
+                        3.2805171,
+                        42.28623,
+                        0
+                    ],
+                    [
+                        3.2798185,
+                        42.2871623,
+                        0
+                    ],
+                    [
+                        3.279443,
+                        42.2877179,
+                        0
+                    ],
+                    [
+                        3.2788202,
+                        42.2887214,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Recorrido/Course 6,5k",
+                "styleUrl": "#line-9C27B0-6813",
+                "styleHash": "-2b72b8fc",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-6813-normal",
+                    "highlight": "#line-9C27B0-6813-highlight"
+                },
+                "description": "Cala Jugador - Platja Gran de Cadaqués",
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 6.813
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2884351,
+                        42.2933492,
+                        0
+                    ],
+                    [
+                        3.289143,
+                        42.2935713,
+                        0
+                    ],
+                    [
+                        3.2898405,
+                        42.2937698,
+                        0
+                    ],
+                    [
+                        3.2903555,
+                        42.2939205,
+                        0
+                    ],
+                    [
+                        3.2912031,
+                        42.2941666,
+                        0
+                    ],
+                    [
+                        3.2923891,
+                        42.2944285,
+                        0
+                    ],
+                    [
+                        3.2933488,
+                        42.2950951,
+                        0
+                    ],
+                    [
+                        3.2942554,
+                        42.2955555,
+                        0
+                    ],
+                    [
+                        3.2949854,
+                        42.295984,
+                        0
+                    ],
+                    [
+                        3.2977263,
+                        42.2950871,
+                        0
+                    ],
+                    [
+                        3.297297,
+                        42.2940714,
+                        0
+                    ],
+                    [
+                        3.2977691,
+                        42.2904603,
+                        0
+                    ],
+                    [
+                        3.2985201,
+                        42.2879206,
+                        0
+                    ],
+                    [
+                        3.299357,
+                        42.2858173,
+                        0
+                    ],
+                    [
+                        3.2997861,
+                        42.2844838,
+                        0
+                    ],
+                    [
+                        3.2977798,
+                        42.2831662,
+                        0
+                    ],
+                    [
+                        3.2962027,
+                        42.282047,
+                        0
+                    ],
+                    [
+                        3.2939067,
+                        42.2824518,
+                        0
+                    ],
+                    [
+                        3.2919755,
+                        42.2826741,
+                        0
+                    ],
+                    [
+                        3.2905164,
+                        42.2818486,
+                        0
+                    ],
+                    [
+                        3.2871261,
+                        42.2817375,
+                        0
+                    ],
+                    [
+                        3.2832637,
+                        42.2841981,
+                        0
+                    ],
+                    [
+                        3.2816329,
+                        42.2851505,
+                        0
+                    ],
+                    [
+                        3.2805171,
+                        42.28623,
+                        0
+                    ],
+                    [
+                        3.2798185,
+                        42.2871623,
+                        0
+                    ],
+                    [
+                        3.279443,
+                        42.2877179,
+                        0
+                    ],
+                    [
+                        3.2788202,
+                        42.2887214,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Recorrido/Course 4,5k",
+                "styleUrl": "#line-E65100-6813",
+                "styleHash": "aa8aa4",
+                "styleMapHash": {
+                    "normal": "#line-E65100-6813-normal",
+                    "highlight": "#line-E65100-6813-highlight"
+                },
+                "description": "Port Lligat - Platja Gran de Cadaqués",
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 6.813
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2971592,
+                        42.2846793,
+                        0
+                    ],
+                    [
+                        3.2978459,
+                        42.2836555,
+                        0
+                    ],
+                    [
+                        3.2977431,
+                        42.2832164,
+                        0
+                    ],
+                    [
+                        3.2962027,
+                        42.282047,
+                        0
+                    ],
+                    [
+                        3.2918981,
+                        42.2826437,
+                        0
+                    ],
+                    [
+                        3.2905164,
+                        42.2818486,
+                        0
+                    ],
+                    [
+                        3.2871671,
+                        42.2818065,
+                        0
+                    ],
+                    [
+                        3.281747,
+                        42.2851726,
+                        0
+                    ],
+                    [
+                        3.2805753,
+                        42.2862844,
+                        0
+                    ],
+                    [
+                        3.2788541,
+                        42.2886905,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Recorrido/Course 2,5k",
+                "styleUrl": "#line-F57C00-6619",
+                "styleHash": "-4d69373c",
+                "styleMapHash": {
+                    "normal": "#line-F57C00-6619-normal",
+                    "highlight": "#line-F57C00-6619-highlight"
+                },
+                "description": "Playa de Caials --> Platja Gran de Cadaqués",
+                "stroke": "#f57c00",
+                "stroke-opacity": 1,
+                "stroke-width": 6.619
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2770333,
+                    42.2873205,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Traslado 6,5k Sin Neopreno / Transfer 6,5k No Wetsuit",
+                "styleUrl": "#icon-1569-3949AB",
+                "styleHash": "-20001b09",
+                "styleMapHash": {
+                    "normal": "#icon-1569-3949AB-normal",
+                    "highlight": "#icon-1569-3949AB-highlight"
+                },
+                "description": "Guardarropía en el barco<br>Bag Drop on the boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2774383,
+                    42.2883688,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Control Chip 6,5k",
+                "styleUrl": "#icon-1769-0F9D58-nodesc",
+                "styleHash": "65062c86",
+                "styleMapHash": {
+                    "normal": "#icon-1769-0F9D58-nodesc-normal",
+                    "highlight": "#icon-1769-0F9D58-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2774705,
+                    42.28822,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Traslado/Transfer 6,5k",
+                "styleUrl": "#icon-1569-3949AB-nodesc",
+                "styleHash": "20c681c0",
+                "styleMapHash": {
+                    "normal": "#icon-1569-3949AB-nodesc-normal",
+                    "highlight": "#icon-1569-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.313867,
+                    42.3162073,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boya/Buoy",
+                "styleUrl": "#icon-1563-FFD600-nodesc",
+                "styleHash": "-63a96363",
+                "styleMapHash": {
+                    "normal": "#icon-1563-FFD600-nodesc-normal",
+                    "highlight": "#icon-1563-FFD600-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3123006,
+                    42.315884,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boya/Buoy",
+                "styleUrl": "#icon-1563-FFD600-nodesc",
+                "styleHash": "-63a96363",
+                "styleMapHash": {
+                    "normal": "#icon-1563-FFD600-nodesc-normal",
+                    "highlight": "#icon-1563-FFD600-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.286244,
+                    42.2936349,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Punto Evacuación/Evacuation Point",
+                "styleUrl": "#icon-1505-FF5252-nodesc",
+                "styleHash": "72d715e",
+                "styleMapHash": {
+                    "normal": "#icon-1505-FF5252-nodesc-normal",
+                    "highlight": "#icon-1505-FF5252-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2781907,
+                    42.2887188,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Punto Médico Avanzado/Advanced Medical Point",
+                "styleUrl": "#icon-1624-FF5252-nodesc",
+                "styleHash": "22a70ea1",
+                "styleMapHash": {
+                    "normal": "#icon-1624-FF5252-nodesc-normal",
+                    "highlight": "#icon-1624-FF5252-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2768201,
+                    42.2874906,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ambulancia/Ambulance",
+                "styleUrl": "#icon-1505-FF5252-nodesc",
+                "styleHash": "72d715e",
+                "styleMapHash": {
+                    "normal": "#icon-1505-FF5252-nodesc-normal",
+                    "highlight": "#icon-1505-FF5252-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2788051,
+                    42.2885997,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boya/Buoy",
+                "styleUrl": "#icon-1563-FFD600-nodesc",
+                "styleHash": "-63a96363",
+                "styleMapHash": {
+                    "normal": "#icon-1563-FFD600-nodesc-normal",
+                    "highlight": "#icon-1563-FFD600-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2789554,
+                    42.2886414,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boya/Buoy",
+                "styleUrl": "#icon-1563-FFD600-nodesc",
+                "styleHash": "-63a96363",
+                "styleMapHash": {
+                    "normal": "#icon-1563-FFD600-nodesc-normal",
+                    "highlight": "#icon-1563-FFD600-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.298427,
+                    42.2944606,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Avituallamiento/Refreshment",
+                "styleUrl": "#icon-1651-C2185B-nodesc",
+                "styleHash": "-7bfd63cf",
+                "styleMapHash": {
+                    "normal": "#icon-1651-C2185B-nodesc-normal",
+                    "highlight": "#icon-1651-C2185B-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2915376,
+                    42.2826897,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Avituallamiento/Refreshment",
+                "styleUrl": "#icon-1651-C2185B-nodesc",
+                "styleHash": "-7bfd63cf",
+                "styleMapHash": {
+                    "normal": "#icon-1651-C2185B-nodesc-normal",
+                    "highlight": "#icon-1651-C2185B-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2939228,
+                        42.2824719,
+                        0
+                    ],
+                    [
+                        3.2935794,
+                        42.2825106,
+                        0
+                    ],
+                    [
+                        3.2922813,
+                        42.2826614,
+                        0
+                    ],
+                    [
+                        3.2919822,
+                        42.2826961,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Poca profundidad/Low depth",
+                "styleUrl": "#line-7CB342-7781-nodesc",
+                "styleHash": "6f4c08a9",
+                "styleMapHash": {
+                    "normal": "#line-7CB342-7781-nodesc-normal",
+                    "highlight": "#line-7CB342-7781-nodesc-highlight"
+                },
+                "stroke": "#7cb342",
+                "stroke-opacity": 1,
+                "stroke-width": 7.781
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2898793,
+                        42.2818934,
+                        0
+                    ],
+                    [
+                        3.2904694,
+                        42.2819172,
+                        0
+                    ],
+                    [
+                        3.2912633,
+                        42.28233,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Poca profundidad/Low depth",
+                "styleUrl": "#line-7CB342-6619-nodesc",
+                "styleHash": "64182b6d",
+                "styleMapHash": {
+                    "normal": "#line-7CB342-6619-nodesc-normal",
+                    "highlight": "#line-7CB342-6619-nodesc-highlight"
+                },
+                "stroke": "#7cb342",
+                "stroke-opacity": 1,
+                "stroke-width": 6.619
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2975348,
+                    42.2855961,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ambulancia/Ambulance",
+                "styleUrl": "#icon-1505-FF5252-nodesc",
+                "styleHash": "72d715e",
+                "styleMapHash": {
+                    "normal": "#icon-1505-FF5252-nodesc-normal",
+                    "highlight": "#icon-1505-FF5252-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2776312,
+                    42.2888568,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WC",
+                "styleUrl": "#icon-1733-3949AB-nodesc",
+                "styleHash": "-7f79f90a",
+                "styleMapHash": {
+                    "normal": "#icon-1733-3949AB-nodesc-normal",
+                    "highlight": "#icon-1733-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.277489,
+                    42.2884176,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Agua/Water",
+                "styleUrl": "#icon-1703-3949AB",
+                "styleHash": "-1407153b",
+                "styleMapHash": {
+                    "normal": "#icon-1703-3949AB-normal",
+                    "highlight": "#icon-1703-3949AB-highlight"
+                },
+                "description": "6,5k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3130268,
+                    42.3161878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "START 6,5k",
+                "styleUrl": "#icon-1701-3949AB-nodesc",
+                "styleHash": "-62d5f8c9",
+                "styleMapHash": {
+                    "normal": "#icon-1701-3949AB-nodesc-normal",
+                    "highlight": "#icon-1701-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2773683,
+                    42.288364,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vaselina/Vaseline",
+                "styleUrl": "#icon-1610-3949AB-nodesc",
+                "styleHash": "-5f61e9c5",
+                "styleMapHash": {
+                    "normal": "#icon-1610-3949AB-nodesc-normal",
+                    "highlight": "#icon-1610-3949AB-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}
