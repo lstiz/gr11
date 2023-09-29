@@ -1,0 +1,228 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.22135066,
+                    41.4004708,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WC",
+                "styleUrl": "#icon-1733-3949AB-nodesc",
+                "styleHash": "-2fe91569",
+                "styleMapHash": {
+                    "normal": "#icon-1733-3949AB-nodesc-normal",
+                    "highlight": "#icon-1733-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2135953,
+                    41.41003924,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Duchas/Showers",
+                "styleUrl": "#icon-1865-3949AB-nodesc",
+                "styleHash": "75366bb8",
+                "styleMapHash": {
+                    "normal": "#icon-1865-3949AB-nodesc-normal",
+                    "highlight": "#icon-1865-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.27126415,
+                    41.4008526,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bolsa Nadador / Swimmers bag",
+                "styleUrl": "#icon-1684-3949AB-nodesc",
+                "styleHash": "-18b9adcc",
+                "styleMapHash": {
+                    "normal": "#icon-1684-3949AB-nodesc-normal",
+                    "highlight": "#icon-1684-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.82122014,
+                    43.4009221,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Briefing",
+                "styleUrl": "#icon-1594-3949AB-nodesc",
+                "styleHash": "19985f13",
+                "styleMapHash": {
+                    "normal": "#icon-1594-3949AB-nodesc-normal",
+                    "highlight": "#icon-1594-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2101606,
+                    40.3996204,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Traslados / Transfer",
+                "styleUrl": "#icon-1532-3949AB",
+                "styleHash": "54f94417",
+                "styleMapHash": {
+                    "normal": "#icon-1532-3949AB-normal",
+                    "highlight": "#icon-1532-3949AB-highlight"
+                },
+                "description": "5km <br>3km "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.02119925,
+                    41.400739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Guardarropía / Bag Drop",
+                "styleUrl": "#icon-1684-3949AB-nodesc",
+                "styleHash": "-18b9adcc",
+                "styleMapHash": {
+                    "normal": "#icon-1684-3949AB-nodesc-normal",
+                    "highlight": "#icon-1684-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.22121615,
+                    41.41006068,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Food Truck",
+                "styleUrl": "#icon-1567-3949AB-nodesc",
+                "styleHash": "-fd899c5",
+                "styleMapHash": {
+                    "normal": "#icon-1567-3949AB-nodesc-normal",
+                    "highlight": "#icon-1567-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.21128597,
+                    41.41005334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "INFO",
+                "styleUrl": "#icon-1608-3949AB-nodesc",
+                "styleHash": "-32fb2fbc",
+                "styleMapHash": {
+                    "normal": "#icon-1608-3949AB-nodesc-normal",
+                    "highlight": "#icon-1608-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.202979,
+                    41.4006339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "INCIDENCIAS / INCIDENTS",
+                "styleUrl": "#icon-1608-3949AB-nodesc",
+                "styleHash": "-32fb2fbc",
+                "styleMapHash": {
+                    "normal": "#icon-1608-3949AB-nodesc-normal",
+                    "highlight": "#icon-1608-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.82123304,
+                    41.94009815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Entrega Premios / Awards ceremony",
+                "styleUrl": "#icon-1798-3949AB-nodesc",
+                "styleHash": "-70a8efe3",
+                "styleMapHash": {
+                    "normal": "#icon-1798-3949AB-nodesc-normal",
+                    "highlight": "#icon-1798-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.02124468,
+                    41.94007381,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Village / Expo",
+                "styleUrl": "#icon-1685-3949AB-nodesc",
+                "styleHash": "532c0e7b",
+                "styleMapHash": {
+                    "normal": "#icon-1685-3949AB-nodesc-normal",
+                    "highlight": "#icon-1685-3949AB-nodesc-highlight"
+                }
+            }
+        }
+      
+        
+    ]
+}
