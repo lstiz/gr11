@@ -1,0 +1,408 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2135066,
+                    41.4004708,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WC",
+                "styleUrl": "#icon-1733-3949AB-nodesc",
+                "styleHash": "-2fe91569",
+                "styleMapHash": {
+                    "normal": "#icon-1733-3949AB-nodesc-normal",
+                    "highlight": "#icon-1733-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2135953,
+                    41.4003924,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Duchas/Showers",
+                "styleUrl": "#icon-1865-3949AB-nodesc",
+                "styleHash": "75366bb8",
+                "styleMapHash": {
+                    "normal": "#icon-1865-3949AB-nodesc-normal",
+                    "highlight": "#icon-1865-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2122014,
+                    41.4009221,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Briefing",
+                "styleUrl": "#icon-1594-3949AB-nodesc",
+                "styleHash": "19985f13",
+                "styleMapHash": {
+                    "normal": "#icon-1594-3949AB-nodesc-normal",
+                    "highlight": "#icon-1594-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2101606,
+                    41.3996204,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Traslados / Transfer",
+                "styleUrl": "#icon-1532-3949AB",
+                "styleHash": "54f94417",
+                "styleMapHash": {
+                    "normal": "#icon-1532-3949AB-normal",
+                    "highlight": "#icon-1532-3949AB-highlight"
+                },
+                "description": "5km <br>3km "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2119925,
+                    40.400739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Guardarropía / Bag Drop",
+                "styleUrl": "#icon-1684-3949AB-nodesc",
+                "styleHash": "-18b9adcc",
+                "styleMapHash": {
+                    "normal": "#icon-1684-3949AB-nodesc-normal",
+                    "highlight": "#icon-1684-3949AB-nodesc-highlight"
+                }
+            }
+        },
+     
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2128597,
+                    41.4005334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "INFO",
+                "styleUrl": "#icon-1608-3949AB-nodesc",
+                "styleHash": "-32fb2fbc",
+                "styleMapHash": {
+                    "normal": "#icon-1608-3949AB-nodesc-normal",
+                    "highlight": "#icon-1608-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.212979,
+                    41.4006339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "INCIDENCIAS / INCIDENTS",
+                "styleUrl": "#icon-1608-3949AB-nodesc",
+                "styleHash": "-32fb2fbc",
+                "styleMapHash": {
+                    "normal": "#icon-1608-3949AB-nodesc-normal",
+                    "highlight": "#icon-1608-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2123304,
+                    42.4009815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Entrega Premios / Awards ceremony",
+                "styleUrl": "#icon-1798-3949AB-nodesc",
+                "styleHash": "-70a8efe3",
+                "styleMapHash": {
+                    "normal": "#icon-1798-3949AB-nodesc-normal",
+                    "highlight": "#icon-1798-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2124468,
+                    41.4007381,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Village / Expo",
+                "styleUrl": "#icon-1685-3949AB-nodesc",
+                "styleHash": "532c0e7b",
+                "styleMapHash": {
+                    "normal": "#icon-1685-3949AB-nodesc-normal",
+                    "highlight": "#icon-1685-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.02137534,
+                    41.399308,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Finish Line",
+                "styleUrl": "#icon-1661-3949AB-nodesc",
+                "styleHash": "2e0d7217",
+                "styleMapHash": {
+                    "normal": "#icon-1661-3949AB-nodesc-normal",
+                    "highlight": "#icon-1661-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2123586,
+                    41.4004892,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "FISIO",
+                "styleUrl": "#icon-1737-3949AB-nodesc",
+                "styleHash": "44f45a6e",
+                "styleMapHash": {
+                    "normal": "#icon-1737-3949AB-nodesc-normal",
+                    "highlight": "#icon-1737-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.18931,
+                    41.3706352,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "START 4k",
+                "styleUrl": "#icon-1701-3949AB-nodesc",
+                "styleHash": "23d87e32",
+                "styleMapHash": {
+                    "normal": "#icon-1701-3949AB-nodesc-normal",
+                    "highlight": "#icon-1701-3949AB-nodesc-highlight"
+                }
+            }
+        },
+    
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1875684,
+                    41.3707008,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Traslado / Transfer",
+                "styleUrl": "#icon-1532-3949AB-nodesc",
+                "styleHash": "-5499a3a8",
+                "styleMapHash": {
+                    "normal": "#icon-1532-3949AB-nodesc-normal",
+                    "highlight": "#icon-1532-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1891214,
+                    41.3706849,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vaselina / Vaseline",
+                "styleUrl": "#icon-1610-3949AB-nodesc",
+                "styleHash": "274c8d36",
+                "styleMapHash": {
+                    "normal": "#icon-1610-3949AB-nodesc-normal",
+                    "highlight": "#icon-1610-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.81891481,
+                    41.3705498,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Agua / Water",
+                "styleUrl": "#icon-1703-3949AB-nodesc",
+                "styleHash": "33ea7bf2",
+                "styleMapHash": {
+                    "normal": "#icon-1703-3949AB-nodesc-normal",
+                    "highlight": "#icon-1703-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1884454,
+                    41.3703185,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Guardarropía / Bag Drop",
+                "styleUrl": "#icon-1684-3949AB-nodesc",
+                "styleHash": "-18b9adcc",
+                "styleMapHash": {
+                    "normal": "#icon-1684-3949AB-nodesc-normal",
+                    "highlight": "#icon-1684-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1894673,
+                    41.3706344,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Control Chip",
+                "styleUrl": "#icon-1769-558B2F-nodesc",
+                "styleHash": "-7ad30d1b",
+                "styleMapHash": {
+                    "normal": "#icon-1769-558B2F-nodesc-normal",
+                    "highlight": "#icon-1769-558B2F-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1887082,
+                    41.3702963,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WC",
+                "styleUrl": "#icon-1733-3949AB-nodesc",
+                "styleHash": "-2fe91569",
+                "styleMapHash": {
+                    "normal": "#icon-1733-3949AB-nodesc-normal",
+                    "highlight": "#icon-1733-3949AB-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.42140899,
+                    41.3997885,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Punto Médico Avanzado/Advanced Medical Point",
+                "styleUrl": "#icon-1624-FF5252-nodesc",
+                "styleHash": "50b2da4",
+                "styleMapHash": {
+                    "normal": "#icon-1624-FF5252-nodesc-normal",
+                    "highlight": "#icon-1624-FF5252-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2046897,
+                    41.3861839,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Avituallamiento/Refreshment",
+                "styleUrl": "#icon-1879-9C27B0-nodesc",
+                "styleHash": "4c9683e6",
+                "styleMapHash": {
+                    "normal": "#icon-1879-9C27B0-nodesc-normal",
+                    "highlight": "#icon-1879-9C27B0-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}
